@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Oklahoma",
     "records": [
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/7961Fx84TdE",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
