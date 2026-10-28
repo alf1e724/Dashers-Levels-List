@@ -8,6 +8,17 @@
     "percentToQualify": "100",
     "password": "Oklahoma",
     "records": [
- 
+         {
+            "user": "ToranDoesGaming",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Bahgel",
+            "link": "https://medal.tv/games/geometry-dash/clips/nOHE8auMOX51Y4t6z?invite=cr-MSxsR3IsNDEyNDY2MjU0",
+            "percent": 100,
+            "hz": 360
+        },
     ]
 }
